@@ -16,3 +16,5 @@ jika device anda mengalami brick atau pun soft brick itu bukan tanggung jawab sa
 
 
 If your device has a brick or soft brick, it's not my responsibility, thank you
+
+paopaok
